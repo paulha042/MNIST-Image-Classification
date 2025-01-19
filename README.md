@@ -2,9 +2,10 @@
 
 ## 1. Project Overview
 
-MNIST is a classic project in the machine learning community, but completed in my own way.
 
-The problem we are trying to solve here is to classify grayscale images of handwritten digits (28 pixels by 28 pixels), into their 10 categories (0 to 9). 
+The MNIST project is a cornerstone in the machine learning community, approached here with my unique perspective.
+
+The task is to classify grayscale images of handwritten digits, each sized 28x28 pixels, into one of 10 categories, representing the digits 0 through 9.
 
 ## 2. Project Workflow
 
